@@ -13,3 +13,7 @@ github練習用リポジトリー
 
 aaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbbb
+
+zzzzzzz
+xxxxxxx
+yyyyyyyyy
