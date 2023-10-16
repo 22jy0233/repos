@@ -7,6 +7,6 @@ github練習用リポジトリー
 - bbbb
 - cccc
 
-  1.AAAA
-  2.BBBB
-  3.CCCC
+  1. AAAA
+  1. BBBB
+  1. CCCC
