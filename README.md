@@ -11,7 +11,5 @@ github練習用リポジトリー
 1. BBBB
 1. CCCC
 
-
-
 aaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbbb
